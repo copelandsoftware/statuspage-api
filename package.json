@@ -24,7 +24,7 @@
     "semver": ""
   },
   "dependencies": {
-    "qs": "6.7.2",
+    "qs": "6.12.1",
     "underscore": "^1.13.4"
   }
 }
